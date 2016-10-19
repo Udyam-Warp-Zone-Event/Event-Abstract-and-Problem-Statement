@@ -36,10 +36,10 @@ Final round is an online submission round, where students have to submit their g
 
 ##### Problem Statement : 
 Design a game of your choice! The game can be designed using any platform or programming language. The final submission has to be done through Github.   
-The final submission must include : 
-1. Entire source code of the game
-2. Few screenshots of the gameplay
-3. A README file which should have :
+The final submission must include :   
+1. Entire source code of the game  
+2. Few screenshots of the gameplay  
+3. A README file which should have :  
    * Name of the team
    * Details of the Team members
    * Details of the Tools, Frameworks and Programming Languages used
