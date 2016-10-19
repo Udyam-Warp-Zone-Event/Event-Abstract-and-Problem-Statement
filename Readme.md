@@ -1,7 +1,7 @@
 # Warp Zone
 ###### A game development Event for Udyam 2017,
 ###### Department of Electronics Engineering,
-###### IIT (BHU) Varanasi, 201009
+###### IIT (BHU) Varanasi, 221005
 
 ### Overview
 Game development is one of the most interesting domains of Computer Programming. It requires substantial skill in software engineering as well as specialization in one or more of the following areas, which overlap heavily to create a game:   
@@ -28,7 +28,7 @@ The participants must submit the idea of their final game.
 
 ##### Problem Statement : To be given on the spot 
 ##### Time Limit : 3 hrs
-##### Programming Language : C/C++/Java/Python/C#
+##### Programming Language : C#/C++/Java/Python/C
 ##### Venue : To be decided later
 
 #### Final Round
